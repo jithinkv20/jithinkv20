@@ -60,8 +60,8 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx",
-            "coin": "WIN",
+            "algo": null,
+            "coin": null,
             "url": "192.168.2.53:3333",
             "user": "WIN:TTtjiVUtAHktvdsZpbrWAfsWU4kUxYEEJr.puser",
             "pass": "x",

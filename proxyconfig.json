@@ -41,7 +41,7 @@
             "user": "WIN:TTtjiVUtAHktvdsZpbrWAfsWU4kUxYEEJr.ALPINE01",
             "pass": "x",
             "rig-id": null,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
