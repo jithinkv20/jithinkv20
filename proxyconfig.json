@@ -36,9 +36,9 @@
     "pools": [
         {
             "algo": "rx",
-            "coin": "XMR",
+            "coin": "WIN",
             "url": "rx.unmineable.com:3333",
-            "user": "XMR:49jhdAA7BibKWwqSHssh1jR6FUwssczbLWPt9s5YocDAfnmUgtGrrKCb2gfxkBk9QSLA7VvdU4d3x3SERY9FHsRfCTyBsXr.ALPINE01",
+            "user": "XMR:TTtjiVUtAHktvdsZpbrWAfsWU4kUxYEEJr.ALPINE01",
             "pass": "x",
             "rig-id": null,
             "keepalive": true,
