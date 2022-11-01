@@ -38,7 +38,7 @@
             "algo": "rx",
             "coin": "WIN",
             "url": "rx.unmineable.com:3333",
-            "user": "XMR:TTtjiVUtAHktvdsZpbrWAfsWU4kUxYEEJr.ALPINE01",
+            "user": "WIN:TTtjiVUtAHktvdsZpbrWAfsWU4kUxYEEJr.ALPINE01",
             "pass": "x",
             "rig-id": null,
             "keepalive": true,
